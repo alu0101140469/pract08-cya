@@ -1,0 +1,35 @@
+2
+a
+b
+9
+S
+A
+B
+C
+D
+E
+F
+G
+H
+S
+20
+S -> aA
+S -> bE
+A -> aB
+A -> bD
+B -> aA
+B -> bC
+B -> &
+C -> aB
+C -> bD
+D -> aA
+D -> bC
+E -> aH
+E -> bF
+F -> aG
+F -> bE
+F -> &
+G -> aH
+G -> bF
+H -> aG
+H -> bE
